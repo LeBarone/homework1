@@ -1,0 +1,56 @@
+p {
+    color: rgb(6, 48, 6);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 17px;
+  }
+
+  html {
+    background-color: #bfe6c5;
+  }
+
+  img {
+    max-width: 100%;
+    height: auto;
+  }
+
+  h1 {
+      font-family: Arial, Helvetica, sans-serif;
+      text-align: center;
+      font-size: 40px;
+    }
+  h2 {
+      text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h3 {
+    font-family: Arial, Helvetica, sans-serif; 
+    color:darkgreen  
+}
+  
+p {
+    text-align: left;
+}
+
+  ol li {
+      margin-bottom: 15px;
+      font-family: Arial, Helvetica, sans-serif;
+    font-size: 17px;
+  }
+ 
+  ul li {
+    list-style-type: square;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 17px;} 
+
+  a {
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+      color: rgb(6, 56, 37);
+      font-size: 25px;
+  }
+
+  a:hover {
+    color: rgb(21, 151, 119);
+  }
+
+  /* div {text-align: center;} */
